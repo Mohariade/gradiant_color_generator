@@ -1,6 +1,6 @@
 # Gradiant Generator App
 
-<img src="Icon.png" width="200" height="200" alt="Image description">
+
 
 
 ## About
