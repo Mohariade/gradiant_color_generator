@@ -1,6 +1,6 @@
 # Gradiant Generator App
 
-![Gradiant Generator App](main/icon.png)
+![Gradiant Generator App](Icon.png)
 
 ## About
 
